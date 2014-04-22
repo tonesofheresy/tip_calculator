@@ -1,3 +1,5 @@
+# Comment for testing Git
+
 meal = 5.00
 tax = 6.00
 tip = 30.00
